@@ -1,32 +1,3 @@
-I'm a passionate and persistent tech professional with over **5 years of experience** in the IT industry, spanning:
-
-- 🖥️ **3 years as a System Administrator**
-- 🛠️ **2 years in IT Support**
-- 🔐 **Hands-on experience in Cybersecurity Projects**
-
----
-
-## 🚀 About Me
-
-I thrive on solving complex technical challenges and optimizing systems for performance, security, and reliability. My journey has taken me from troubleshooting hardware and software issues to managing enterprise systems and now diving deep into the world of cybersecurity.
-
-### 🧠 Core Skills
-- System Administration (Windows & Linux)
-- Network Monitoring & Visualization (Grafana, SNMP, Checkmk)
-- Disk Health & Data Cloning
-- Vulnerability Management & Remediation
-- Cybersecurity Research & Implementation
-- Technical Troubleshooting (Printers, Boot Failures, Labeling Machines)
-
----
-
-## 🔐 Current Focus: Cybersecurity
-I'm actively working on:
-- Vulnerability scanning and patching
-- ICMP timestamp filtering and hardening
-- Exploring Tenable, Nessus, and other security tools
-- Securing endpoints and network infrastructure
-
 # <a href="https://www.linkedin.com/in/youAxmed/">YouAxmed</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
